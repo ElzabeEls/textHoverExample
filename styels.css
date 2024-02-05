@@ -1,0 +1,38 @@
+body {
+  background-color: aqua;
+}
+
+h1:hover {
+  color: yellow;
+  font-size: 5em;
+}
+
+p:hover {
+  color: rgb(255, 183, 0);
+  font-size: 2em;
+}
+
+#special:hover {
+  color: rgb(157, 255, 0);
+  font-size: 2em;
+}
+
+.redClass:hover {
+  color: rgb(255, 0, 0);
+  font-size: 2em;
+}
+
+#y:hover {
+  color: rgb(255, 0, 212);
+  font-size: 2em;
+}
+
+#a:hover {
+  color: rgb(144, 0, 255);
+  font-size: 2em;
+}
+
+#y2:hover {
+  color: rgb(0, 0, 255);
+  font-size: 2em;
+}
